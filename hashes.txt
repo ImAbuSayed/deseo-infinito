@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo infinito
+
+This log tracks the cryptographic history and versioning for the song **Deseo infinito** (deseo-infinito).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:16:10.769001 | `v1` | `47593de768f5aba4c410ceced2331c3b9298b6cb690710e174510e3631377633` | `15a579f0b91e181febb14717980a9124a5076b20ab46cf378715f8e7d867a9b7` | `2026-06-16_deseo-infinito-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
