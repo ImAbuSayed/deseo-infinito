@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-infinito/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Deseo infinito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-infinito/) |
+| **Get License** | [Get License For Deseo infinito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-infinito/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle respira la tentación
+> Tú y yo bailando perdemos toda razón
+> Bajo las luces de Madrid te robo un beso
+> Caemos juntos atrapados en este exceso
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
